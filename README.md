@@ -1,11 +1,18 @@
-```markdown
 # Olá Mundo, eu sou o Rafael! :D
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/rafaelfloressilveira)](https://github.com/rafaelfloressilveira)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafaelfloressilveira/)](https://www.linkedin.com/in/rafaelfloressilveira/)
+  <div>
+  <a href = "mailto: rafaelfloressilveira2@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/rafaelfloressilveira" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://instagram.com/rafaelflores10" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+</div>
+
 
 ### Sobre mim
 Sou iniciante na programação e apaixonado por tecnologia, estou em constante aprendizado, principalmente nas plataformas da DIO e cursoemvideo.
 
-Estou com poucas modificações em meu github, pois reorganizei o mesmo a pouco tempo.
-```
+Estou com poucas modificações em meu github no momento, pois reorganizei o mesmo a pouco tempo.
+
+
+
+
+
