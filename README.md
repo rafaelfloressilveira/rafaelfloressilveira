@@ -17,6 +17,8 @@ Utilizei o Angular como Framework para o JS.
 
 
 Aprendendo Python via Pycharm (Alura e Curso em Video)
+
 Aprendendo Linux (Alura e Curso em Video)
+
 
 Interesse em Análise de Dados (Ciência de Dados)
