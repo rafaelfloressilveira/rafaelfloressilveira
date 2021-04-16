@@ -8,11 +8,15 @@
 
 
 ### Sobre mim
-Sou iniciante na programação e apaixonado por tecnologia, estou em constante aprendizado, principalmente nas plataformas da DIO e cursoemvideo.
+Sou iniciante na programação e apaixonado por tecnologia, estou em constante aprendizado, principalmente nas plataformas do Curso em Video, Alura e DIO.
 
 Estou com poucas modificações em meu github no momento, pois reorganizei o mesmo a pouco tempo.
 
+Tenho conhecimento em HTML, CSS, JS.
+Utilizei o Angular como Framework para o JS.
 
 
+Aprendendo Python via Pycharm (Alura e Curso em Video)
+Aprendendo Linux (Alura e Curso em Video)
 
-
+Interesse em Análise de Dados (Ciência de Dados)
