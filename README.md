@@ -10,23 +10,21 @@
 Trabalho a 15 anos em finanças, formado em Administração e cursando 2º período em Ciências da Computação.
 Sou iniciante na programação e apaixonado por tecnologia, estou em aprendizado com os conteúdos que encontro em várias plataformas pela web.
 
-|||Estou com poucas modificações em meu github no momento, pois reorganizei os diretórios|||
-
 Conhecimento básico em HTML, CSS, JS, Python.
 
 Roadmap de aprendizado:
 1.	Languages
-  1.1	Python
-  1.2	HTML
-  1.3	CSS
-  1.4	JS
+1.1	Python
+1.2	HTML
+1.3	CSS
+1.4	JS
 2.	Framework
-  2.1	Flask
-  2.2	Django
-  2.3	Vue
+2.1	Flask
+2.2	Django
+2.3	ReactJS
 3.	DataBase
-  3.1	MySQL
-  3.2	MongoDB
+3.1	MySQL
+3.2	MongoDB
 4.	Message Brokers
   4.1	RabbitMQ
 5.	Search Engine
