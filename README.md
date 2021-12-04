@@ -4,7 +4,6 @@
   <a href = "mailto: rafaelfloressilveira2@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/rafaelfloressilveira" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
-## 
 
 ### Sobre mim
 Trabalho a 15 anos em finanças, formado em Administração e cursando 2º período em Ciências da Computação.
@@ -18,7 +17,6 @@ Conhecimento básico em HTML, CSS, JS.
   <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Rafa-Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg">
 </div>
-
 ##
 
 <div align="center">
@@ -28,5 +26,3 @@ Conhecimento básico em HTML, CSS, JS.
 </div>
   
 ##
-  
-
