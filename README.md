@@ -6,6 +6,7 @@
 </div>
 
 ### Sobre mim
+
 Trabalho a 15 anos em finanças, formado em Administração e cursando 2º período em Ciências da Computação.
 Sou iniciante na programação e apaixonado por tecnologia, estou em aprendizado com os conteúdos que encontro em várias plataformas pela web e me preparando para uma transição de carreira para Desenvolvedor FullStack.
 
@@ -17,6 +18,7 @@ Conhecimento básico em HTML, CSS, JS.
   <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Rafa-Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg">
 </div>
+
 ##
 
 <div align="center">
