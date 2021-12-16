@@ -7,7 +7,7 @@
 
 ### Sobre mim
 
-Trabalho a 15 anos em finanças, formado em Administração e cursando 2º período em Ciências da Computação.
+Trabalho a 15 anos em finanças, formado em Administração e cursando 3º período em Ciências da Computação.
 Sou iniciante na programação e apaixonado por tecnologia, estou em aprendizado com os conteúdos que encontro em várias plataformas pela web e me preparando para uma transição de carreira para Desenvolvedor FullStack.
 
 Conhecimento básico em HTML, CSS, JS.
