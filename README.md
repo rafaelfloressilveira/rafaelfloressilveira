@@ -7,16 +7,17 @@
 
 ### Sobre mim
 
-Trabalho a 15 anos em finanças, formado em Administração e cursando 3º período em Ciências da Computação.
-Sou iniciante na programação e apaixonado por tecnologia, estou em aprendizado com os conteúdos que encontro em várias plataformas pela web e me preparando para uma transição de carreira para Desenvolvedor FullStack.
+Trabalho a 16 anos em finanças, formado em Administração e cursando 3º período em Ciências da Computação.
+Sou iniciante na programação e apaixonado por tecnologia, estou em aprendizado com os conteúdos que encontro em várias plataformas pela web e me preparando para uma transição de carreira de Desenvolvedor.
 
 Conhecimento básico em HTML, CSS, JS.
+Aprendizado focado em C# no momento.
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Rafa-Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg">
+  <img align="center" alt="Rafa-CSharp" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="Rafa-DotNet" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original.svg">
 </div>
 
 ##
